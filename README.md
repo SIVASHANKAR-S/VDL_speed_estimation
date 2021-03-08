@@ -11,7 +11,8 @@ If you want to see the English version of README.md file, click this link.
 
 VDL이란 차량의 속도 추정을 위해 사용하는 가상의 선으로서, 차량이 두 개의 선을 지난 시간을 이용하여 차량의 속도를 계산한다. 아래 그림과 같은 상황에서 차량 속도 추정을 다음과 같은 식으로 얻을 수 있다.
 
-![속도 계산 식](images/math.jpg)
+![속도 계산 식](images/math.JPG)
+
 ![VDL 속도 추정 설명](images/VDL_explaination.png)
 
 ### 속도추정 알고리즘
