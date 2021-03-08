@@ -3,7 +3,9 @@
 본 알고리즘은 NIA 교통안전 AI 데이터 구축 사업의 결과물로서, 한국전자기술연구원(Korea Electronics Techonology Institute, KETI)에서 개발한 알고리즘이다.
 
 This algorithm is the result of the NIA traffic safety AI data construction project and is an algorithm developed by Korea Electronics Techonology Institute (KETI).
-If you want to see the English version of README.md file, click this link.
+If you want to see the English version of README.md file, click this [link][english].
+
+[english]: https://github.com/swhan0329/VDL_speed_estimation/blob/master/README(ENG).md
 
 ## 알고리즘 설명
 
